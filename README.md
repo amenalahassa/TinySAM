@@ -47,6 +47,11 @@ The code requires `python>=3.7` and we use `torch==1.10.2` and `torchvision==0.1
 
 ## Usage
 
+You can install it with 
+```
+pip install git+https://github.com/amenalahassa/TinySAM
+```
+
 1. Download [checkpoints](#evaluation) into the directory of *weights*.
 
 2. Run the demo code for single prompt of point or box.
